@@ -1,1 +1,10 @@
+h1 {
+    text-align: center;
+    color: navy;
+    font-size: 40px;
+    font-family: sans-serif;
+}
 
+body {
+    font-family: cursive;
+}
